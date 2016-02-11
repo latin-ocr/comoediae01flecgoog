@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediae01flecgoog_0003.png"; bbox 0 0 2584 3834; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1653 3545 2169 3648">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1653 3545 2169 3648">
+     <span class='ocr_line' id='line_1_1' title="bbox 1653 3545 2169 3648; baseline 0 -31"><span class='ocrx_word' id='word_1_1' title='bbox 1653 3588 1801 3625; x_wconf 54' lang='lat' dir='ltr'>[ngguumci</span> <span class='ocrx_word' id='word_1_2' title='bbox 1817 3545 1936 3625; x_wconf 48' lang='lat' dir='ltr'>1031·ss</span> <span class='ocrx_word' id='word_1_3' title='bbox 1946 3571 2099 3648; x_wconf 45' lang='grc' dir='ltr'>Θῦὶώ</span> <span class='ocrx_word' id='word_1_4' title='bbox 2111 3567 2169 3617; x_wconf 57' lang='grc' dir='ltr'>ΜΞ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 691 3834">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 691 3834">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 691 3834; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 691 3834; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
